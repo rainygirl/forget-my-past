@@ -14,7 +14,9 @@ forget-my-past 프로젝트는 트위터 과거 트윗을 삭제하기 위한 �
 어떻게 작동시키죠?
 ------------------
 
-트위터 Settings > Your Twitter archive 에 있는 Send Email 버튼을 누르고, 이메일로 배달되는 압축파일에서 tweets.csv 를 가져와 run.rb 와 같은 디렉토리에 두고 실행시킵니다.
+개발자가 아니시라면, Ruby 만질 줄 아는 개발자 오빠에게 이 스크립트를 쓸 수 있게 해달라고 부탁하면 됩니다.
+
+트위터 Settings > Your Twitter archive 에 있는 Send Email 버튼을 누르고, 이메일로 배달되는 압축파일에서 tweets.csv 를 가져와 run.rb 와 같은 디렉토리에 두고 실행시키면 됩니다. Settings 메뉴에 해당 버튼이 없다면 언어설정을 English로 바꾸면 버튼을 찾을 수 있습니다.
 
 코드가 왜이리 엉망이죠?
 -----------------------
